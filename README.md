@@ -19,7 +19,7 @@ Before starting Rave, make sure that you have the backend tools like rtl_tcp, rt
 
 1. **Clone the Source Code**
    ```bash
-   git clone https://github.com/fosatech/Raven.git
+   git clone https://github.com/RTOTECH/Raven.git
    ```
 
 2. **Navigate to the Project Directory**
